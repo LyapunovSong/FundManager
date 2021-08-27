@@ -1,0 +1,8 @@
+com\example\fundmanager\controller\PositionControllerTests.class
+com\example\fundmanager\controller\SecurityControllerTests.class
+com\example\fundmanager\controller\FundControllerTests.class
+com\example\fundmanager\service\FundServiceTests.class
+com\example\fundmanager\service\PositionServiceTests.class
+com\example\fundmanager\service\SecurityServiceTests.class
+com\example\fundmanager\controller\FundManagerControllerTests.class
+com\example\fundmanager\service\FundManagerServiceTests.class

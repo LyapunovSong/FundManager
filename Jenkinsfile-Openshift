@@ -1,10 +1,10 @@
-def dockerHubName = "newbieesun"
+
 def projectName = "manager-1"
 def appName = "${projectName}-app"
 def version = "latest"
-def dockerImageTag_app = "${dockerHubName}/${appName}:${version}"
+def dockerImageTag_app = "${appName}:${version}"
 def mysqlName = "${projectName}-mysql"
-def dockerImageTag_mysql = "${dockerHubName}/${mysqlName}:${version}"
+def dockerImageTag_mysql = "${mysqlName}:${version}"
 
 pipeline {
   agent any
